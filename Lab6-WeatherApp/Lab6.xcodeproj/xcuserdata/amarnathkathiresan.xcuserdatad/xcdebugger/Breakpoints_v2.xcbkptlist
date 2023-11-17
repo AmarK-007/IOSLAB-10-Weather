@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9C1DA666-3B78-4292-8F63-BAF12FE49012"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AFDA354-A32A-447C-9354-208EFA5D2CB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab6/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getWeatherAPI(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AFDA354-A32A-447C-9354-208EFA5D2CB5 - 7db11fbb8e83aca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "1AFDA354-A32A-447C-9354-208EFA5D2CB5 - 7db11fbb8e83aca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "1AFDA354-A32A-447C-9354-208EFA5D2CB5 - 3d5ce8768962151b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "1AFDA354-A32A-447C-9354-208EFA5D2CB5 - 9a7f02abdec448b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.ViewController.getWeatherAPI(Swift.Double, Swift.Double) -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F22BC760-D2D8-48F0-930E-9CD35E0DAD52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab6/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "getWeatherAPI(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F22BC760-D2D8-48F0-930E-9CD35E0DAD52 - 7db11fbb8e83a9de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "F22BC760-D2D8-48F0-930E-9CD35E0DAD52 - 7db11fbb8e83a9de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "F22BC760-D2D8-48F0-930E-9CD35E0DAD52 - 965ec10b2f03d62a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI(Swift.Double, Swift.Double) -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46218E43-A61D-45AD-B1EC-5245A707537D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab6/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "getWeatherAPI(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46218E43-A61D-45AD-B1EC-5245A707537D - 46224de7bbb3a428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Swift.MainActor @Sendable () async -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI() -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "46218E43-A61D-45AD-B1EC-5245A707537D - 86e3fd6ae60e94e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Swift.MainActor @Sendable () async -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI(Swift.Double, Swift.Double) -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C889AFA8-5C27-4D94-9332-4690B76F3E7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab6/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "getWeatherAPI(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C889AFA8-5C27-4D94-9332-4690B76F3E7E - 9a7f02abdec44929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.ViewController.getWeatherAPI(Swift.Double, Swift.Double) -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "C889AFA8-5C27-4D94-9332-4690B76F3E7E - 965ec10b2f03d587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab6.ViewController.getWeatherAPI(Swift.Double, Swift.Double) -&gt; ()"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week11/Lab6/Lab6/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
